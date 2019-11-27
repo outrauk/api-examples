@@ -2,7 +2,7 @@
 
 This example uses Python 3 and can be run across platforms (though it's only been tested on macOS).
 
-## Prequisites
+## Prerequisites
 
 * Python version 3.6 or higher
 * [requests](https://pypi.org/project/requests/) library 
