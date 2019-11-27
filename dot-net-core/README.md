@@ -2,7 +2,7 @@
 
 This example uses .NET Core 3.0 and can be run across platforms (though it's only been tested on macOS).
 
-## Prequisites
+## Prerequisites
 
 * [.NET Core SDK](https://dotnet.microsoft.com/download)
 * Outra API credentials (email and password)
